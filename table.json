@@ -1,0 +1,671 @@
+<table class="genTbl closedTbl crossRatesTbl" id="cross_rate_1" tablesorter="">
+<thead>
+ <tr>
+        
+  <th class="left noWrap elp pointer" data-col-caption="Commodity" data-col-name="shortname"><span style="font-family: &quot;verdana&quot; , sans-serif;">▲▼Commodity<span class="headerSortDefault" sort_default=""></span></span></th>
+   <th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">Price</span></th>
+   <th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">High</span></th>
+   <th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">Low</span></th>
+  <th><span style="font-family: &quot;verdana&quot; , sans-serif;">Chg%</span></th>
+  <!--<th><span style="font-family: &quot;verdana&quot; , sans-serif;">Buy P.</span></th>
+  <th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">Sell P. </span></th> -->
+   <th class="pointer" data-col-caption="Time" data-col-name="shown_datetime"><span style="font-family: &quot;verdana&quot; , sans-serif;">Time<span class="headerSortDefault" sort_default=""></span></span></th>
+   <!--<th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">Commodity</span></th> -->
+  <!--<th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">ᅠ</span></th>
+     <th class="icon pointer"></th>-->
+       </tr>
+    </thead>
+  
+<tbody>
+    <tr>
+        
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8830-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Gold</span></b></td>
+                        <td class="pid-49776-last">73,850</td>
+                  <td class="pid-49776-high">74,026</td>
+      <td class="pid-49776-low">73,742</td>
+   <td class="bold pid-49776-pcp blackFont redFont">-0.23%</td>
+         <!--   <td class="pid-49776-bid">59,451</td>
+      <td class="pid-49776-ask">59,460</td>-->
+      <td data-value="1716367499" class="pid-49776-time">14:14:59</td>
+      <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Gold</span></b></td>-->
+        </tr>
+   <!--<tr>
+        <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Gold  Jun</span></b></td>
+                        <td class="pid-1181058-last">59,292.00</td>
+                  <td class="pid-1181058-high">59,342.00</td>
+      <td class="pid-1181058-low">59,240.00</td>
+<td class="bold pid-1181058-pcp blackFont redFont">-0.54%</td>
+      <td class="pid-1181058-time" data-value="1680493029">09:07:09</td>
+        </tr>-->
+  
+    <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8830-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Goldmini</span></b></td>
+                        <td class="pid-49778-last">73,826</td>
+                  <td class="pid-49778-high">73,993</td>
+      <td class="pid-49778-low">73,713</td>
+    <td class="bold pid-49778-pcp blackFont redFont">-0.19%</td>
+          <!--  <td class="pid-49778-bid">59,191</td>
+      <td class="pid-49778-ask">59,198</td>-->
+      <td data-value="1716367499" class="pid-49778-time">14:14:59</td>
+      <!-- <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Goldmini</span></b></td>-->
+        </tr>
+    
+  <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Goldmini May</span></b></td>
+                        <td class="pid-1181061-last">59,080.00</td>
+                  <td class="pid-1181061-high">59,200.00</td>
+      <td class="pid-1181061-low">59,000.00</td>
+     <td class="bold pid-1181061-pcp blackFont redFont">-0.51%</td>
+      <td data-value="1680493250" class="pid-1181061-time">09:10:50</td>
+        </tr>-->
+    
+     <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8830-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Goldgunea</span></b></td>
+                        <td class="pid-49777-last">60,221</td>
+                  <td class="pid-49777-high">60,420</td>
+      <td class="pid-49777-low">60,130</td>
+  <td class="bold pid-49777-pcp blackFont redFont">-0.23%</td>
+      <!--        <td class="pid-49777-bid">47,870</td>
+      <td class="pid-49777-ask">47,890</td>-->
+      <td data-value="1716367287" class="pid-49777-time">14:11:27</td>
+      <!-- <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Goldgunea</span></b></td>->
+        </tr>
+  
+    <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Goldgunea April</span></b></td>
+                        <td class="pid-1181059-last">47,340.00</td>
+                  <td class="pid-1181059-high">47,503.00</td>
+      <td class="pid-1181059-low">47,320.00</td>
+  <td class="bold pid-1181059-pcp blackFont redFont">-0.46%</td>
+      <td class="pid-1181059-time" data-value="1680493270">09:11:10</td>
+        </tr>-->
+    
+  </tr>
+  
+  <tr>
+    <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8830-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Gold petal</span></b></td>
+                        <td class="pid-49779-last">7,251</td>
+                  <td class="pid-49779-high">7,280</td>
+      <td class="pid-49779-low">7,240</td>
+    <td class="bold pid-49779-pcp blackFont redFont">-0.28%</td>
+      <!-- <td class="pid-49779-bid greenBg">5,916</td>
+      <td class="pid-49779-ask greenBg">5,917</td>-->
+      <td class="pid-49779-time" data-value="1716367502">14:15:02</td>
+    <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Gold petal</span></b></td>-->
+        </tr>
+  
+   <!-- 2snd month <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-1178341-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Gold petal</span></b></td>
+                        <td class="pid-1181063-last">7,058.00</td>
+                  <td class="pid-1181063-high">7,088.00</td>
+      <td class="pid-1181063-low">7,033.00</td>
+    <td class="bold pid-1181063-pcp blackFont greenFont">+0.26%</td>
+          <!--<td class="pid-1181063-bid redBg">5,950.00</td>
+      <td class="pid-1181063-ask redBg">5,952.00</td>
+      <td class="pid-1181063-time" data-value="1712770921">23:12:01</td>
+      <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Gold petal</span></b></td>
+        </tr>-->
+  
+  
+   <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Gold petal April</span></b></td>
+                        <td class="pid-1181063-last">5,865.00</td>
+                  <td class="pid-1181063-high">5,875.00</td>
+      <td class="pid-1181063-low">5,853.00</td>
+    <td class="bold pid-1181063-pcp blackFont redFont">-0.53%</td>
+      <td class="pid-1181063-time" data-value="1680493269">09:11:09</td>
+        </tr>-->
+  
+     <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8836-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Silver</span></b></td>
+                        <td class="pid-49791-last redBg">94,380</td>
+                  <td class="pid-49791-high">94,868</td>
+      <td class="pid-49791-low">94,041</td>
+  <td class="bold pid-49791-pcp blackFont redFont">-0.36%</td>
+      <!-- <td class="pid-49791-bid">74,410</td>
+      <td class="pid-49791-ask">74,474</td>-->
+      <td data-value="1716367511" class="pid-49791-time">14:15:11</td>
+       <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Silver</span></b></td>-->
+  <!--<td class="pid-49791-last_open">62602</td>-->
+        </tr>
+   
+    <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Silver May</span></b></td>
+                        <td class="pid-1181071-last">64,413.00</td>
+                  <td class="pid-1181071-high">64,645.00</td>
+      <td class="pid-1181071-low">63,820.00</td>
+  <td class="bold pid-1181071-pcp blackFont greenFont">+0.59%</td>
+      <td class="pid-1181071-time" data-value="1677867896">23:54:56</td>
+        </tr>-->
+ 
+     <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8836-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Silvermini</span></b></td>
+                        <td class="pid-49793-last">94,328</td>
+                  <td class="pid-49793-high">94,786</td>
+      <td class="pid-49793-low">93,972</td>
+  <td class="bold pid-49793-pcp blackFont redFont">-0.32%</td>
+             <!-- <td class="pid-49793-bid">75,944</td>
+      <td class="pid-49793-ask">75,950</td>-->
+      <td data-value="1716367506" class="pid-49793-time">14:15:06</td>
+      <!-- <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Silvermini</span></b></td>-->
+        </tr>
+  
+  <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Silvermini Jun</span></b></td>
+                        <td class="pid-1181074-last">72,418.00</td>
+                  <td class="pid-1181074-high">72,522.00</td>
+      <td class="pid-1181074-low">72,404.00</td>
+  <td class="bold pid-1181074-pcp blackFont redFont">-0.83%</td>
+      <td class="pid-1181074-time" data-value="1680493299">09:11:39</td>
+        </tr>-->
+  
+    <!--<tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8836-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Silvermicro</span></b></td>
+                        <td class="pid-49792-last">68,908</td>
+                  <td class="pid-49792-high">69,969</td>
+      <td class="pid-49792-low">68,001</td>
+  <td class="bold pid-49792-pcp blackFont redFont">-0.26%</td>
+            <!--<td class="pid-49792-bid greenBg">75,925</td>
+      <td class="pid-49792-ask greenBg">75,933</td>
+      <td class="pid-49792-time" data-value="1709213904">29|02|24</td>
+      <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Silvermicro</span></b></td>
+        </tr>-->
+  
+  <tr>
+         
+              <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8836-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Silvermicro</span></b></td>
+                        <td class="pid-49792-last">94,336</td>
+                  <td class="pid-49792-high">94,798</td>
+      <td class="pid-49792-low">93,971</td>
+  <td class="bold pid-49792-pcp blackFont redFont">-0.30%</td>
+      <td data-value="1716367504" class="pid-49792-time">14:15:04</td>
+        </tr>
+  
+    <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8849-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Crude oil</span></b></td>
+                        <td class="pid-49774-last">6,481</td>
+                  <td class="pid-49774-high">6,527</td>
+      <td class="pid-49774-low">6,455</td>
+  <td class="bold pid-49774-pcp blackFont redFont">-1.32%</td>
+           <!-- <td class="pid-49774-bid">6,941</td>
+      <td class="pid-49774-ask">6,944</td>-->
+      <td data-value="1716367504" class="pid-49774-time">14:15:04</td>
+      <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Crude oil</span></b></td>-->
+  <!--<td class="pid-49774-last_open">6699</td>-->
+        </tr>
+
+   <!--<tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8849-arrowSmall greenArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Crudeoil m</span></b></td>
+                        <td class="pid-49774-bid">6,588</td>
+                  <td class="pid--high">6,604</td>
+      <td class="pid--low">6,515</td>
+  <td class="bold pid-49774-pcp blackFont whiteFont greenFont">+0.58%</td>
+      <td class="pid-49774-time" data-value="1715831205">09:16:45</td>
+        </tr>-->
+<tr>
+<td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8849-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Crudeoil m</span></b></td>
+      <!-- <td class="pid-49774-bid">6,617</td>
+  <td class="pid--high">6,623</td>
+      <td class="pid--low">6,613.00</td>
+  <td class="bold pid-49774-pcp blackFont whiteFont greenFont">+0.03%</td>
+      <td class="pid-49774-time" data-value="1715917574">09:16:14</td>-->
+       
+  <td class="pid-1206748-last">6,483.00</td>
+        <td class="pid-1206748-high">6,519.00</td>
+      <td class="pid-1206748-low">6,458.00</td>
+  <td class="bold pid-1206748-pcp blackFont whiteFont redFont">-1.28%</td>
+      <td class="pid-1206748-time" data-value="1716367461">14:14:21</td>
+        </tr>
+    
+    <tr>
+        
+        <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8862-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Naturalgas</span></b></td>
+      <td class="pid-49787-last">219.30</td>
+         <td class="pid-49787-high">220.90</td>
+       <td class="pid-49787-low">217.40</td>
+  <td class="bold pid-49787-pcp blackFont redFont">-1.92%</td>
+            <!--<td class="pid-49787-bid">229.30</td>
+      <td class="pid-49787-ask">229.40</td>-->
+      <td data-value="1716367506" class="pid-49787-time">14:15:06</td>
+      <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Naturalgas</span></b></td>-->
+ <!-- <td class="pid-49787-last_open">302.00</td>-->
+        </tr>
+<!--<tr>
+        
+        <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8862-arrowSmall greenArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Naturalg m</span></b></td>
+      <td class="pid-49787-bid">201.30</td>
+         <td class="pid--high">201.90</td>
+       <td class="pid--low">201.00</td>
+  <td class="bold pid-49787-pcp blackFont greenFont">+1.21%</td>
+      <td data-value="1715831235" class="pid-49787-time">09:17:15</td>
+
+        </tr>-->
+
+  <tr>
+ <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8862-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Naturalg m
+</span></b></td>
+  <!--<td class="pid-49787-bid">209.90</td>
+  <td class="pid--high">209.70</td>
+  <td class="pid--low">207.00</td>
+  <td class="bold pid-49787-pcp blackFont whiteFont greenFont">+0.86%</td>
+  <td data-value="1715917687" class="pid-49787-time">09:18:07</td>-->
+  
+ 
+  <td class="pid-1206747-last">219.30</td>
+  <td class="pid-1206747-high">221.00</td>
+  <td class="pid-1206747-low">217.50</td>
+  <td class="bold pid-1206747-pcp blackFont whiteFont redFont">-1.88%</td>
+  <td data-value="1716367486" class="pid-1206747-time">14:14:46</td>
+        </tr>    
+  
+    
+  
+
+   <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Aluminium</span></b></td>
+                        <td class="pid-40015-last">132.75</td>
+                  <td class="pid-40015-high">133.50</td>
+      <td class="pid-40015-low">132.65</td>
+      <td class="pid-40015-time" data-value="1587971589">12:43:09</td>
+        </tr>-->
+
+
+ </tbody>
+
+ <!--  <thead>
+ <tr>
+        
+  <th class="left noWrap elp pointer" data-col-caption="Commodity" data-col-name="shortname"><span style="font-family: &quot;verdana&quot; , sans-serif;">▲▼Commodity<span class="headerSortDefault" sort_default=""></span></span></th>
+   <th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">Price</span></th>
+   <th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">High</span></th>
+   <th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">Low</span></th>
+  <th class="pointer"><span style="font-family: &quot;verdana&quot; , sans-serif;">Chg%</span></th>
+   <th class="pointer" data-col-caption="Time" data-col-name="shown_datetime"><span style="font-family: &quot;verdana&quot; , sans-serif;">Time<span class="headerSortDefault" sort_default=""></span></span></th>
+     <th class="icon pointer"></th>
+       </tr>
+    </thead>-->
+ 
+<tbody>
+  
+  <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-49768-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Aluminium</span></b></td>
+                        <td class="pid-40015-last">246.90</td>
+                  <td class="pid-40015-high">250.35</td>
+      <td class="pid-40015-low">245.40</td>
+  <td class="bold pid-40015-pcp blackFont redFont">-0.30%</td>
+    <!--<td class="pid-40015-bid">203.35</td>
+      <td class="pid-40015-ask">203.45</td>-->
+      <td data-value="1716367447" class="pid-40015-time">14:14:07</td>
+   <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Aluminium</span></b></td>-->
+        </tr>
+  
+ <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-49768-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Alumini</span></b></td>
+                        <td class="pid-49767-last">247.35</td>
+                  <td class="pid-49767-high">250.60</td>
+      <td class="pid-49767-low">245.70</td>
+  <td class="bold pid-49767-pcp blackFont redFont">-0.30%</td>
+      <!--<td class="pid-49767-bid">203.60</td>
+      <td class="pid-49767-ask">203.70</td>-->
+      <td data-value="1716367447" class="pid-49767-time">14:14:07</td>
+   <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Alumini</span></b></td>-->
+        </tr>
+  
+    
+    <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-959211-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Copper</span></b></td>
+                        <td class="pid-49771-last">923.45</td>
+                  <td class="pid-49771-high">930.10</td>
+      <td class="pid-49771-low">920.25</td>
+  <td class="bold pid-49771-pcp blackFont redFont">-1.25%</td>
+            <!--<td class="pid-49771-bid">741.90</td>
+      <td class="pid-49771-ask">742.10</td>-->
+      <td data-value="1716367454" class="pid-49771-time">14:14:14</td>
+      <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Copper</span></b></td>-->
+        </tr>
+    
+    <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Copper April</span></b></td>
+                        <td class="pid-1181051-last">777.50</td>
+                  <td class="pid-1181051-high">777.60</td>
+      <td class="pid-1181051-low">776.50</td>
+  <td class="bold pid-1181051-pcp blackFont redFont">-0.02%</td>
+      <td class="pid-1181051-time" data-value="1680493368">09:12:48</td>
+        </tr>-->
+    
+    <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid--arrowSmall grayArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Nickel</span></b></td>
+                        <td class="pid-49788-last">1746.70</td>
+                  <td class="pid-49788-high">000.00</td>
+      <td class="pid-49788-low">000.00</td>
+  <td class="bold pid-49788-pcp blackFont greenFont">+0.00%</td>
+           <!-- <td class="pid-49788-bid">00.00</td>
+      <td class="pid-49788-ask">00.00</td>-->
+<td data-value="1651249455" class="pid-49788-time">23:29:58</td>
+      
+      <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Nickel</span></b></td>-->
+  <!--<td class="pid-49788-last_open">1770.2</td>-->
+        </tr>
+    
+  <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Nickel-Jul</span></b></td>
+                        <td class="pid-1181070-last">2,465.00</td>
+                  <td class="pid-1181070-high">2,501.10</td>
+      <td class="pid-1181070-low">2,465.00</td>
+  <td class="bold pid-1181070-pcp blackFont redFont">-3.33%</td>
+      <td data-value="1651249455" class="pid-1181070-time">21:54:15</td>
+        </tr>-->
+  
+    <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-959207-arrowSmall greenArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Lead</span></b></td>
+                        <td class="pid-49784-last">195.10</td>
+                  <td class="pid-49784-high">195.50</td>
+      <td class="pid-49784-low">194.60</td>
+  <td class="bold pid-49784-pcp blackFont redFont">-0.13%</td>
+            <!--<td class="pid-49784-bid">189.35</td>
+      <td class="pid-49784-ask">189.45</td>-->
+      <td class="pid-49784-time" data-value="1716367401">14:13:21</td>
+      <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Lead</span></b></td>-->
+        </tr>
+    
+    <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Lead  April</span></b></td>
+                        <td class="pid-1181066-last">181.65</td>
+                  <td class="pid-1181066-high">183.10</td>
+      <td class="pid-1181066-low">181.50</td>
+  <td class="bold pid-1181066-pcp blackFont redFont">-0.60%</td>
+      <td class="pid-1181066-time" data-value="1680285561">23:29:21</td>
+        </tr>--><tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-959207-arrowSmall greenArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Leadmini</span></b></td>
+                        <td class="pid-49796-last">195.15</td>
+                  <td class="pid-49796-high">195.85</td>
+      <td class="pid-49796-low">194.60</td>
+   <td class="bold pid-49796-pcp blackFont">0.00%</td>
+            <!--<td class="pid-49796-bid">189.15</td>
+      <td class="pid-49796-ask">189.30</td>-->
+      <td data-value="1716367432" class="pid-49796-time">14:13:52</td>
+  <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Leadmini</span></b></td>-->
+        </tr>
+   
+     <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-956470-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Zinc</span></b></td>
+                  <td class="pid-49794-last">274.35</td>
+              <td class="pid-49794-high">277.85</td>
+      <td class="pid-49794-low">272.55</td>
+  <td class="bold pid-49794-pcp blackFont redFont">-0.35%</td>
+       <!--<td class="pid-49794-bid">219.90</td>
+      <td class="pid-49794-ask">220.00</td>-->
+      <td class="pid-49794-time" data-value="1716367465">14:14:25</td>
+       <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Zinc</span></b></td>-->
+        </tr>
+  
+    <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Zinc  April</span></b></td>
+                  <td class="pid-1181076-last">257.70</td>
+              <td class="pid-1181076-high">257.85</td>
+      <td class="pid-1181076-low">257.70</td>
+  <td class="bold pid-1181076-pcp blackFont redFont">-0.19%</td>
+      <td class="pid-1181076-time" data-value="1680492870">09:04:30</td>
+        </tr>--><tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-956470-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Zincmini</span></b></td>
+                  <td class="pid-49795-last">274.15</td>
+              <td class="pid-49795-high">277.65</td>
+      <td class="pid-49795-low">272.40</td>
+  <td class="bold pid-49795-pcp blackFont redFont">-0.36%</td>
+       <!--<td class="pid-49795-bid greenBg">219.85</td>
+      <td class="pid-49795-ask greenBg">219.90</td>-->
+      <td data-value="1716367503" class="pid-49795-time">14:15:03</td>
+   <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Zincmini</span></b></td>-->
+        </tr>
+<!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Mentha oil</span></b></td>
+                        <td class="pid-49785-last"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">wait</span></b></td>
+                  <td class="pid-49785-high"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">000</span></b></td>
+      <td class="pid-49785-low"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+      <td class="pid-49785-time" data-value="1573838853"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0:00</span></b></td>
+        </tr>-->
+
+ 
+<!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><a href="https://www.blogger.com/commodities/cotton" title="Cotton"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Cotton</span></b></a></td>
+                        <td class="pid-49773-last"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+                  <td class="pid-49773-high"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+      <td class="pid-49773-low"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+      <td class="pid-49773-time" data-value="1573831795"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0:00</span></b></td>
+        </tr>-->
+  
+    <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-49785-arrowSmall greenArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">Mentha oil</span></b></td>
+                  <td class="pid-49785-last">928.3</td>
+              <td class="pid-49785-high">928.5</td>
+      <td class="pid-49785-low">924.0</td>
+  <td class="bold pid-49785-pcp blackFont greenFont">+0.15%</td>
+            <!--<td class="pid-49785-bid">1,031.3</td>
+      <td class="pid-49785-ask">1,034.5</td>-->
+      
+      <td class="pid-49785-time" data-value="1716364111">13:18:31</td>
+      <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Mentha oil</span></b></td>-->
+        </tr>
+    
+    <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Menthaoil  May</span></b></td>
+                  <td class="pid-1181067-last">1,004.90</td>
+              <td class="pid-1181067-high">1,004.90</td>
+      <td class="pid-1181067-low">1,004.90</td>
+  <td class="bold pid-1181067-pcp blackFont redFont">-1.09%</td>
+      <td class="pid-1181067-time" data-value="1680492616">09:00:16</td>
+        </tr>-->
+    
+    <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Cpo</span></b></td>
+                  <td class="pid-49775-last">0000.0</td>
+              <td class="pid-49775-high">0000.0</td>
+      <td class="pid-49775-low">0000.0</td>
+    <td class="bold pid-49775-pcp greenFont">+0.00%</td>
+      <td class="pid-49775-time" data-value="1646203504">00:00:00</td>
+    <!--<td class="pid-49775-last_open">1164</td>
+        </tr>-->
+  
+     <!-- <tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Brass</span></b></td>
+                        <td class="pid-1073071-last">321.50</td>
+                  <td class="pid-1073071-high">321.50</td>
+      <td class="pid-1073071-low">321.50</td>
+    <td class="bold pid-1073071-pcp blackFont greenFont">0.00%</td>
+      <td class="pid-1073071-time" data-value="1653980963">16:23:48</td>
+        </tr>-->
+  
+     <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-8851-arrowSmall greenArrowIcon">&nbsp;</span>
+<span style="font-family: &quot;verdana&quot; , sans-serif;">Cotton</span></b></td>
+                        <td class="pid-49773-last">55,960</td>
+                  <td class="pid-49773-high">55,960</td>
+      <td class="pid-49773-low">55,800</td>
+    <td class="bold pid-49773-pcp blackFont greenFont">+0.36%</td>
+              <!--<td class="pid-49773-bid">60,400</td>
+      <td class="pid-49773-ask">60,600</td>-->
+       
+      <td class="pid-49773-time" data-value="1716367233">14:10:33</td>
+       <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Cotton</span></b></td>
+    <!--<td class="pid-49773-last_open">37750</td>-->
+        </tr>
+
+  <tr>
+        
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-1166451-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">M bulldex</span></b></td>
+                        <td class="pid-1166451-last">19,218.00</td>
+                  <td class="pid-1166451-high">19,275.00</td>
+      <td class="pid-1166451-low">19,195.00</td>
+    <td class="bold pid-1166451-pcp blackFont redFont">-0.25%</td>
+              <!--<td class="pid-1166451-bid">16,054.00</td>
+      <td class="pid-1166451-ask">16,058.00</td>-->
+      <td class="pid-1166451-time" data-value="1716366770">14:02:50</td>
+    <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Mcxbulldex</span></b></td>
+    <!--<td class="pid-49773-last_open">37750</td>-->
+        </tr>
+  
+   <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Mc - Kapas</span></b></td> 
+                        <td class="pid-49782-last">2,298.0</td>
+                  <td class="pid-49782-high">2,298.0</td>
+      <td class="pid-49782-low">2,298.0</td>
+       <td class="bold pid-49782-pcp blackFont whiteFont whiteFont">0.00%</td>
+      <td class="pid-49782-time" data-value="1679570994">16:59:54</td> 
+        </tr>-->
+   <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Ncd Steel</span></b></td> 
+                        <td class="pid-1013446-last">48,500.00</td>
+                  <td class="pid-1013446-high">48,500.00</td>
+      <td class="pid-1013446-low">48,190.00</td>
+       <td class="bold pid-1013446-pcp blackFont whiteFont redFont">-0.08%</td>
+      <td class="pid-1013446-time" data-value="1680002683">16:54:43</td> 
+        </tr>-->
+  
+   <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Ncd Kapas</span></b></td> 
+                        <td class="pid-1013439-last">1,584.00</td>
+                  <td class="pid-1013439-high">1,584.00</td>
+      <td class="pid-1013439-low">1,578.00</td>
+       <td class="bold pid-1013439-pcp blackFont whiteFont greenFont">+0.32%</td>
+      <td class="pid-1013439-time" data-value="1681795833">11:00:33</td> 
+        </tr>-->
+    
+ 
+     <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-160-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">USD/INR</span></b></td>
+                        <td class="pid-160-last">83.264</td>
+                  <td class="pid-160-high">83.388</td>
+      <td class="pid-160-low">83.221</td>
+    <td class="bold pid-160-pcp blackFont redFont">-0.07%</td>
+              <!--<td class="pid-160-bid">82.741</td>
+      <td class="pid-160-ask">82.743</td>-->
+      <td data-value="1716367505" class="pid-160-time">14:15:05</td>
+        <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">USD/INR</span></b></td>
+   <!-- <td class="pid-160-last_open">74.606</td>-->
+        </tr>
+  
+     <tr>
+         
+         <td class="bold left plusIconTd noWrap elp"><b><span class="vertical pid-1646-arrowSmall redArrowIcon">&nbsp;</span><span style="font-family: &quot;verdana&quot; , sans-serif;">EUR/INR</span></b></td>
+                        <td class="pid-1646-last">90.3400</td>
+                  <td class="pid-1646-high">90.4800</td>
+      <td class="pid-1646-low">90.3070</td>
+    <td class="bold pid-1646-pcp blackFont redFont">-0.12%</td>
+              <!--<td class="pid-1646-bid">89.7080</td>
+      <td class="pid-1646-ask">89.8680</td>-->
+      <td class="pid-1646-time" data-value="1716367481">14:14:41</td>
+       <!--<td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">EUR/INR</span></b></td>
+   <!-- <td class="pid-1646-last_open">74.606</td>-->
+        </tr>
+  
+  <!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><a href="https://www.blogger.com/commodities/ncdex-coriander-futures" title="Coriander Futures"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Coriander</span></b></a></td>
+                        <td class="pid-1013433-last"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+                  <td class="pid-1013433-high"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+      <td class="pid-1013433-low"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+      <td class="pid-1013433-time" data-value="1573817385"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0:00</span></b></td>
+        </tr>-->
+<!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><a href="https://www.blogger.com/commodities/ncdex-guar-gum-futures" title="Guar Gum Futures"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Guar Gum</span></b></a></td>          
+                        <td class="pid-1013435-last"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+                  <td class="pid-1013435-high"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+      <td class="pid-1013435-low"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+      <td class="pid-1013435-time" data-value="1573817393"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0:00</span></b></td>
+        </tr>-->
+<!--<tr>
+         <td class="flag"></td>
+         <td class="bold left plusIconTd noWrap elp"><a href="https://www.blogger.com/commodities/us-soybeans?cid=1013442" title="US Soybeans Futures"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">Soybeans</span></b></a></td>
+                        <td class="pid-1013442-last"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+                  <td class="pid-1013442-high"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+      <td class="pid-1013442-low"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0000</span></b></td>
+      <td class="pid-1013442-time" data-value="1573817399"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0:00</span></b></td>
+        </tr>-->
+ </tbody>
+  
+  
+ 
+ 
+
+
+<tbody><tr></tr></tbody>
+
+<tbody><tr></tr></tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody><tr></tr></tbody>
+
+
+
+
+
+
+
+
+
+
+
+<tbody><tr></tr></tbody>
+
+
+
+
+
+
+  
+  
+  
+ 
+    
+  
+</table>
